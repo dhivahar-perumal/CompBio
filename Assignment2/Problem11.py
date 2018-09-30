@@ -1,6 +1,5 @@
 def main():
     inputFile = open('C:/Users/Dhiva/Desktop/rosalind_ba9a.txt', 'r')
-    inputFile = open('C:/Users/Dhiva/Desktop/rosalind_ba9a.txt', 'r')
     outputFile = open('C:/Users/Dhiva/Desktop/output.txt', 'w+')
     string = inputFile.read()
     patterns = string.split()
